@@ -2,16 +2,14 @@
 
 body {
     font-family: Lato;
-    color: rgb(71, 85, 71)
+    
+  
 }
-
-
 #menu{
     font-size: 110%;
     list-style-type: none;
     letter-spacing: 4px;
-    background-color: rgb(72, 100, 83);
-    color:aliceblue;
+    color:rgb(58, 65, 54);
 }
 
 
@@ -34,26 +32,3 @@ body {
 .active{
     border-bottom: 1px solid #777777;
 }
-#banner {
-    background-color: rgb(71, 85, 71);
-    height: 400px;
-    margin-top: 0;
-    text-align: center;
-    color:aliceblue;
-}
-#image-banner {
-    margin-left: 25px;
-}
-
-h2 {
-    color: rgb(71, 85, 71);
-    text-align: center;
-    
-}
-#image1 {
-    margin-left: 20px;
-}
-#image2 {
-    margin-right: 20px;
-}
- 
