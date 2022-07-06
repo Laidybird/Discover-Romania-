@@ -32,4 +32,11 @@ body {
 .active{
     border-bottom: 1px solid #777777;
 }
-
+h2 {
+    text-align: center;
+    font-size: 260%;
+}
+.card {
+    margin-left: 20px;
+    margin-bottom: 45px;
+}
