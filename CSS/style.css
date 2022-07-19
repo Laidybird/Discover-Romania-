@@ -43,36 +43,9 @@ h3 {
 footer{
     height: 150px;
 }
-.social-footer {
-    padding: 1rem;
-    background: #856f5d;
-    display: inline-table;
-    display: inline-table;
-    display: flex;
-    -webkit-box-flex: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-justify-content: space-between;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-  }
-  
-  .social-footer .social-footer-icons li:last-of-type {
-    margin-right: 20px;
-  }
-  
-  .social-footer .social-footer-icons .fa {
-    font-size: 1.3rem;
-    color: #fefefe;
-  }
-  
-  .social-footer .social-footer-icons .fa:hover {
-    color: #4a4a4a;
-    transition: color 0.3s ease-in;
-  }
   .form-section {
     clear: left;
-    background: url("images/pexels-dan-cristian-paduret-5263613.jpg");
+    background: url("https://www.pexels.com/photo/wood-landscape-mountains-village-5263613/");
     background-size: cover;
     background-position: center;
     height: 900px;
