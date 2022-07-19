@@ -43,26 +43,4 @@ h3 {
 footer{
     height: 150px;
 }
-  .form-section {
-    clear: left;
-    background: url("https://www.pexels.com/photo/wood-landscape-mountains-village-5263613/");
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}
-.signup-form{
-    margin-top: 150px;
-    color:#fff;
-    background-color:rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position: absolute;
-    left: 10%;
-    padding: 30px;
-}
-
-.signup-form h2 {
-    color: #fafafa;
-    margin-bottom: 20px;
-    
-}
- 
+  
