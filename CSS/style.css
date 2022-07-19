@@ -43,4 +43,13 @@ h3 {
 footer{
     height: 150px;
 }
-  
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+#photo img{
+    width: 100%;
+}
