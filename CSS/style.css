@@ -40,7 +40,9 @@ body {
 h3 {
     text-align: center;
 }
-
+footer{
+    height: 150px;
+}
 .social-footer {
     padding: 1rem;
     background: #856f5d;
