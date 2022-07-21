@@ -40,23 +40,18 @@ body {
 h3 {
     text-align: center;
 }
-
-* {
-    box-sizing: border-box;
+footer {
+    height: 160%;
 }
-.row {
-    display: flex;
-}
-.column {
-    flex: 33.33%;
-    padding: 5px;
-}
-.social-footer {
-    padding: 1rem;
-    background: #bf9696;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
+.social-networks {
     text-align: center;
-
+}
+.social-networks li {
+    display: inline;
+}
+.social-networks i {
+    font-size: 160%;
+    margin: 2%;
+    padding: auto;
+    color: #777777;
 }
