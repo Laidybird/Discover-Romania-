@@ -57,6 +57,6 @@ h3 {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    
+    text-align: center;
 
 }
