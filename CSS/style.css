@@ -53,5 +53,8 @@ footer {
     font-size: 160%;
     margin: 2%;
     padding: auto;
-    color: #777777;
+    color: #956e3c;
+}
+.social-networks i:hover {
+    background-color: blue;
 }
